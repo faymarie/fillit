@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1519993685 source:c:\users\marie\codingprojects\ecole42\fillit\main.c
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	"tetrimino.h"
+
+1519486014 c:\users\marie\codingprojects\ecole42\fillit\tetrimino.h
+
